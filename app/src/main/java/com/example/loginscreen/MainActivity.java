@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
     EditText username;
     EditText password;
     Button loginButton;
-    /*aaaa*/
 
 
     @Override
